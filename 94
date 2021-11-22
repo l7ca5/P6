@@ -5,4 +5,4 @@ while v<1000 :
     w=v
     v=v+u
     u=w
-print (V)
+    print (v)
