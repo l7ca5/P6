@@ -1,0 +1,11 @@
+u=0
+v=1
+w=0
+n=0
+while v<1000 :
+    w=v
+    v=v+u
+    u=w
+    w=0
+    n+=1
+print (n)
